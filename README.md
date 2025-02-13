@@ -69,7 +69,7 @@ Model Predictive Control
 
 ![tracking](https://github.com/user-attachments/assets/15d76e93-11c3-4164-a6ef-88196a61d1ea)
 
-=> Source : ![Link](https://osqp.org/docs/examples/mpc.html)
+=> Source : ![Model predictive control (MPC) - University of Oxford](https://osqp.org/docs/examples/mpc.html)
 
 
 ## License
