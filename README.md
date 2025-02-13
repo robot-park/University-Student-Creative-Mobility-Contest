@@ -57,6 +57,8 @@ https://github.com/user-attachments/assets/25bdc9f7-b6e5-4e4c-bf15-05c7337df97d
 ## Control
 - Planning
 
+Optimal Frenet + Stanley Method
+
 https://github.com/user-attachments/assets/25e60de0-d95b-45c0-b43d-850e999cca9e
 
 https://github.com/user-attachments/assets/5094df36-292d-4ecb-820b-f93ef937e635
