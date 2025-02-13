@@ -65,6 +65,8 @@ https://github.com/user-attachments/assets/5094df36-292d-4ecb-820b-f93ef937e635
 
 - Tracking
 
+Model Predictive Control
+
 ![tracking](https://github.com/user-attachments/assets/15d76e93-11c3-4164-a6ef-88196a61d1ea)
 
 
