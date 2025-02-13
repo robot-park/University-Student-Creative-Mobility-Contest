@@ -1,5 +1,6 @@
 # 2023 University Student Creative Mobility Contest
 대학생 창작모빌리티 경진대회
+
 This contest, organized by the Korea Transport Safety Authority's Automobile Safety Research Institute, is an annual event sponsored by the Ministry of Land, Infrastructure and Transport, along with the Korea Transport Safety Authority and the Korean Society of Automotive Safety. The competition aims to lay the foundation for the advancement of the automotive industry.
 
 Details of the competition:
