@@ -20,7 +20,23 @@ E. Organizer: Korea Transport Safety Authority and the Korean Society of Automot
 ![ERP_Settings](https://github.com/user-attachments/assets/4f9663d8-9031-4974-af26-fbaed4b6a3df)
 ![Image](https://github.com/user-attachments/assets/0b4db66a-b6af-4472-882a-8cbcbf8fe452)
 
-ERP-32 (WeGo Robotics) + Ouster 32CH LiDAR + HD Cameras + IMU + RTK-GPS
+Platform : ERP-32 (WeGo Robotics)
+
+Cameraa : MSIP-REM-DZL-V-U0040
+
+LiDAR : OS1-32 (Ouster)
+
+GNSS : SMC 2000
+
+AHRS : AHRS EBMotionV5
+
+Encoder : E40H12-100-3-T-5 (resouktion 100, 300Hz)
+
+PC : Nuvo-8108GC (i7, RTX 3070 x D6)
+
+Laptop : ThinkPad P16 Gen2 (i9, RTX2000 Ada)
+
+
 
 ## Sensing
 Lidar SLAM (lego-loam based
