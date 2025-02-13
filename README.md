@@ -24,7 +24,8 @@ ERP-32 (WeGo Robotics) + Ouster 32CH LiDAR + HD Cameras + IMU + RTK-GPS
 
 ## Sensing
 Lidar SLAM (lego-loam based)
-https://github.com/user-attachments/assets/b1c75ec8-1266-4b44-9213-88eae5d646ff
+
+![Video](https://github.com/user-attachments/assets/b1c75ec8-1266-4b44-9213-88eae5d646ff)
 
 
 ## Control
