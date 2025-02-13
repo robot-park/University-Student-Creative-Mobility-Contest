@@ -1,0 +1,8 @@
+prefix=/usr/local
+
+Name: jaejun
+Description: Description of jaejun
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/vision/lidar_ws/src/jaejun/build/devel
+
+Name: jaejun
+Description: Description of jaejun
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

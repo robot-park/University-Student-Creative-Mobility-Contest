@@ -1,0 +1,13 @@
+<launch>
+    
+    <!--- Sim Time -->
+    <param name="/use_sim_time" value="false" />
+
+    <!--- Run Rviz-->
+    <node pkg="rviz" type="rviz" name="rviz" args="-d $(find jaejun)/launch/test1.rviz" />
+
+    <!--- LeGO-LOAM -->    
+    <node pkg="jaejun" type="transform"   name="transform"  output="screen"/>
+    <node pkg="jaejun" type="practice_dynamic"   name="practice_dynamic"  output="screen"/>
+
+</launch>

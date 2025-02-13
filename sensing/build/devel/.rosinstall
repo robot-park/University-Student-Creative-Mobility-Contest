@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/vision/lidar_ws/src/jaejun/build/devel/setup.sh
