@@ -1,7 +1,17 @@
-# Student-Creative-Mobility-Competition
-Unmanned mobility
+# 2023 University Student Creative Mobility Contest
+This contest, organized by the Korea Transport Safety Authority's Automobile Safety Research Institute, is an annual event sponsored by the Ministry of Land, Infrastructure and Transport, along with the Korea Transport Safety Authority and the Korean Society of Automotive Safety. The competition aims to lay the foundation for the advancement of the automotive industry.
 
-CC BY-NC-ND 4.0
+Details of the competition:
+
+A. Name: 2023 University Student Creative Mobility Contest
+
+B. Date: October 13th (Friday) to 14th (Saturday), 2023
+
+C. Venue: Korea Transport Safety Authority's Automobile Safety Research Institute
+
+D. Sponsor: Ministry of Land, Infrastructure and Transport
+
+E. Organizer: Korea Transport Safety Authority and the Korean Society of Automotive Safety
 
 ## Introduction
 
@@ -15,3 +25,6 @@ CC BY-NC-ND 4.0
 
 
 ## Control
+
+## License
+CC BY-NC-ND 4.0
