@@ -1,4 +1,4 @@
-# Student-Creative-Mobility-Competition
+# University Student Creative Mobility Contest
 Unmanned mobility
 
 CC BY-NC-ND 4.0
