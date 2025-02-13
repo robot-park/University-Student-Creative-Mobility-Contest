@@ -1,4 +1,4 @@
-# 2023 University Student Creative Mobility Contest
+# University Student Creative Mobility Contest
 대학생 창작모빌리티 경진대회
 
 ## Introduction
@@ -18,8 +18,9 @@ E. Organizer: Korea Transport Safety Authority and the Korean Society of Automot
 
 ## Hardware
 
-
 ![Image](https://github.com/user-attachments/assets/0b4db66a-b6af-4472-882a-8cbcbf8fe452)
+
+ERP-32 (WeGo Robotics) + Ouster 32CH LiDAR + HD Cameras + IMU + RTK-GPS
 
 ## Sensing
 
