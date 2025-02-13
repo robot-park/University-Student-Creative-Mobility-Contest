@@ -23,7 +23,11 @@ E. Organizer: Korea Transport Safety Authority and the Korean Society of Automot
 ERP-32 (WeGo Robotics) + Ouster 32CH LiDAR + HD Cameras + IMU + RTK-GPS
 
 ## Sensing
-Lidar SLAM (lego-loam based)
+Lidar SLAM (lego-loam based
+
+rqt_grpah
+
+![Image](https://github.com/user-attachments/assets/7b8714a8-5196-41b0-95b3-9bda8d4f84f1)
 
 https://github.com/user-attachments/assets/ed19acd9-3d30-4c61-962e-dfad63f80111
 
