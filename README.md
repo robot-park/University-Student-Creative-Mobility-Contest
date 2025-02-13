@@ -48,6 +48,10 @@ rqt_grpah
 
 https://github.com/user-attachments/assets/ed19acd9-3d30-4c61-962e-dfad63f80111
 
+patchwork++ based Ground Removal
+
+https://github.com/user-attachments/assets/25bdc9f7-b6e5-4e4c-bf15-05c7337df97d
+
 
 
 ## Control
