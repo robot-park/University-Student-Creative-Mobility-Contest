@@ -5,7 +5,9 @@ CC BY-NC-ND 4.0
 
 ## Introduction
 
-![Image](https://github.com/user-attachments/assets/f3e116fb-0d5b-4a41-a475-35570b2f7b5f)
+![Image](https://github.com/user-attachments/assets/0b4db66a-b6af-4472-882a-8cbcbf8fe452)
+
 ## Sensing
+
 
 ## Control
